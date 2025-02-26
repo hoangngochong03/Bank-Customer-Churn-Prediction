@@ -6,7 +6,7 @@ This project aims to build a model to predict customer churn in a bank. The mode
 ---
 📊 Dataset
 
-The dataset used for this project can be found on Kaggle: Bank Customer Churn Modeling
+ The dataset used for this project can be found on Kaggle: [Bank Customer Churn Modeling](https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling)
 
 ## 🔧 Installation and Running the Application
 
