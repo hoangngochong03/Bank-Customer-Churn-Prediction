@@ -4,6 +4,9 @@
 This project aims to build a model to predict customer churn in a bank. The model is trained on the dataset located in the `data` directory and integrated into a **Streamlit** application for easy interaction.
 
 ---
+📊 Dataset
+
+The dataset used for this project can be found on Kaggle: Bank Customer Churn Modeling
 
 ## 🔧 Installation and Running the Application
 
